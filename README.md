@@ -36,5 +36,5 @@ Maze-Solver is a Python-based maze-solving game implemented using Tkinter. The g
 
 
 ## Credits
-- Created by [Ahmed Yahia]([link_to_your_profile](https://www.linkedin.com/in/ahmed-yahia-41aa7a244/))
+- Created by [Ahmed Yahia](https://www.linkedin.com/in/ahmed-yahia-41aa7a244/)
 
